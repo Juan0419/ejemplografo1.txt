@@ -1,4 +1,3 @@
-# ejemplografo1.txt
 5
 1
 4
